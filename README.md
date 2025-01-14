@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasib-39&show_icons=true&locale=en&layout=compact" alt="Hasib-39" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hasib-39&show_icons=true&locale=en" alt="Hasib-39" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Hasib-39&" alt="Hasib-39" /></p>
+<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=Hasib-39)](https://git.io/streak-stats)</p>
